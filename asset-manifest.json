@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/confetti-calculator-react/static/css/main.40114bbd.css",
+    "main.js": "/confetti-calculator-react/static/js/main.18973765.js",
+    "static/js/453.2bf00ad8.chunk.js": "/confetti-calculator-react/static/js/453.2bf00ad8.chunk.js",
+    "index.html": "/confetti-calculator-react/index.html",
+    "main.40114bbd.css.map": "/confetti-calculator-react/static/css/main.40114bbd.css.map",
+    "main.18973765.js.map": "/confetti-calculator-react/static/js/main.18973765.js.map",
+    "453.2bf00ad8.chunk.js.map": "/confetti-calculator-react/static/js/453.2bf00ad8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40114bbd.css",
+    "static/js/main.18973765.js"
+  ]
+}
