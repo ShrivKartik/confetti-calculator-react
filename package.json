@@ -1,6 +1,5 @@
 {
   "name": "confetti-calculator",
-  "homepage": "https://ShrivKartik.github.io/confetti-calculator-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
